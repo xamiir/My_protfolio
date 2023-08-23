@@ -1,12 +1,12 @@
-import { v4 as uuidv4 } from 'uuid';
+import { v4 as uuidv4 } from "uuid";
 
 export const aboutMeData = [
-	{
-		id: uuidv4(),
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-	},
-	{
-		id: uuidv4(),
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-	},
+  {
+    id: uuidv4(),
+    bio: "Hi I Am Abdullahi Abdi Ahmed Full Stack Web Developer. I am a self-taught developer with a passion for learning new things and solving problems.  and I am always looking for ways to improve my skills and knowledgee .I am a fast learner and I am not afraid to learn new things. I am always willing to help others.I am a self-motivated person and I am always looking for ways to improve myself.I am always willing to put in the extra effort to get the job done.",
+  },
+  {
+    id: uuidv4(),
+    bio: "	",
+  },
 ];
