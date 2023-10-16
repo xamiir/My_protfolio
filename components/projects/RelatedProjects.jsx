@@ -17,7 +17,7 @@ const RelatedProject = {
 		{
 			id: uuidv4(),
 			title: 'UI Design',
-			img: '/images/web-project-1.jpg',
+			img: '/images/hos.png',
 		},
 		{
 			id: uuidv4(),
